@@ -7,7 +7,7 @@
     <groupId>pro.zyyz.common</groupId>
     <artifactId>zyyz-common</artifactId>
     <packaging>jar</packaging>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <description>zyyz公共包</description>
     <url>https://github.com/xuzhi7162/zyyz-common</url>
 
